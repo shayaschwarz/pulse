@@ -1,4 +1,4 @@
-# Pulse heatmap
+# Pulse: Command Center
 
 A password-protected page. Open the site and enter the password to view it.
 
